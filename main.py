@@ -1,4 +1,4 @@
-"""Round-2 entrypoint for news-image-20261118.
+"""Round-3 entrypoint for news-image-20261118.
 
 The picture itself is drawn at build time by draw_world.py and committed
 as entry.png. This program's only job is to place that exact file at the
